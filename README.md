@@ -21,8 +21,8 @@
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 Script ini di modifikasi sama saya sendiri Hans.
 ```bash
-> git clone https://github.com/FznXSec404/ojanbotz
-> cd ojanbotz
+> git clone https://github.com/FznXSec404/ojanbott
+> cd ojanbott
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr, done
