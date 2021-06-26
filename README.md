@@ -16,7 +16,7 @@
 ### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗔𝗹𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗕𝗼𝘁
 
 ### BAHAN BOT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-* `TEMUX`
+* `TERMUX`
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 Script ini di modifikasi sama saya sendiri Hans.
