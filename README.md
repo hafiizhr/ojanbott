@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://i.ibb.co/9cFS54T/logo.jpg" alt="Ojan" width="600" />
-<a href="https://avatars.githubusercontent.com/u/81602606?v=4"><img title="Ojan" src="https://img.shields.io/badge/HANS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://avatars.githubusercontent.com/u/81602606?v=4"><img title="Ojan" src="https://img.shields.io/badge/Ojann-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/FznXSec404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-OjanSenpai-orange.svg?style=for-the-badge&logo=github"></a>
