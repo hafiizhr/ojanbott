@@ -55,16 +55,16 @@ memberlimit = 1 // serah
 cr = '*Mikubot*' 
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6289666262976@s.whatsapp.net"]   // Ganti Nomor Lu
-const pacarNumber = ["6289666262976@s.whatsapp.net"]  // Ganti Jadi Nomor Bot Lu
+const ownerNumber = ["6282245731529@s.whatsapp.net"]   // Ganti Nomor Lu
+const pacarNumber = ["6282245731529@s.whatsapp.net"]  // Ganti Jadi Nomor Bot Lu
 /************************************/
 
 //========ATUR SEMUA D SNI===========//
-namabot = 'Mikubot' //Nama Bot lu
+namabot = 'Kemol' //Nama Bot lu
 github = 'FznXSec404' //username github
-namaowner = 'OjanGanz' //nama owner
+namaowner = 'kemol' //nama owner
 nobot = '6289666262976' //nobot
-namabot = 'Miku' //namabot
+namabot = 'mikasa' //namabot
 igbot = 'mikubot' //username ig
 restlu = 'https://janbot-api.herokuapp.com/' //klo punya isi aj
 gruplu = 'https://chat.whatsapp.com/D98GrrGgT86F2xGWaSps5X' //link gc lu
